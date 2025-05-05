@@ -1,0 +1,522 @@
+[
+    {
+      "name": "Aarav Sharma",
+      "email": "aarav.sharma@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": true,
+      "examination_form_submitted": true,
+      "fee_submitted": true,
+      "fee_verified": true,
+      "attendance": 87
+    },
+    {
+      "name": "Vivaan Patel",
+      "email": "vivaan.patel@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": false,
+      "examination_form_submitted": true,
+      "fee_submitted": true,
+      "fee_verified": true,
+      "attendance": 75
+    },
+    {
+      "name": "Aditya Mehra",
+      "email": "aditya.mehra@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": true,
+      "examination_form_submitted": false,
+      "fee_submitted": true,
+      "fee_verified": false,
+      "attendance": 82
+    },
+    {
+      "name": "Krishna Iyer",
+      "email": "krishna.iyer@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": true,
+      "examination_form_submitted": true,
+      "fee_submitted": false,
+      "fee_verified": false,
+      "attendance": 93
+    },
+    {
+      "name": "Aryan Reddy",
+      "email": "aryan.reddy@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": false,
+      "examination_form_submitted": false,
+      "fee_submitted": true,
+      "fee_verified": true,
+      "attendance": 68
+    },
+    {
+      "name": "Sai Verma",
+      "email": "sai.verma@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": true,
+      "examination_form_submitted": true,
+      "fee_submitted": true,
+      "fee_verified": false,
+      "attendance": 91
+    },
+    {
+      "name": "Atharv Desai",
+      "email": "atharv.desai@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": true,
+      "examination_form_submitted": false,
+      "fee_submitted": false,
+      "fee_verified": false,
+      "attendance": 64
+    },
+    {
+      "name": "Vihaan Nair",
+      "email": "vihaan.nair@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": false,
+      "examination_form_submitted": true,
+      "fee_submitted": true,
+      "fee_verified": true,
+      "attendance": 77
+    },
+    {
+      "name": "Om Prakash",
+      "email": "om.prakash@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": true,
+      "examination_form_submitted": true,
+      "fee_submitted": true,
+      "fee_verified": true,
+      "attendance": 89
+    },
+    {
+      "name": "Dhruv Bhatia",
+      "email": "dhruv.bhatia@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": false,
+      "examination_form_submitted": false,
+      "fee_submitted": false,
+      "fee_verified": false,
+      "attendance": 61
+    },
+    {
+      "name": "Ayaan Rao",
+      "email": "ayaan.rao@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": true,
+      "examination_form_submitted": true,
+      "fee_submitted": false,
+      "fee_verified": false,
+      "attendance": 84
+    },
+    {
+      "name": "Kabir Chawla",
+      "email": "kabir.chawla@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": false,
+      "examination_form_submitted": true,
+      "fee_submitted": true,
+      "fee_verified": false,
+      "attendance": 73
+    },
+    {
+      "name": "Rudra Kapoor",
+      "email": "rudra.kapoor@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": true,
+      "examination_form_submitted": true,
+      "fee_submitted": true,
+      "fee_verified": true,
+      "attendance": 92
+    },
+    {
+      "name": "Arjun Joshi",
+      "email": "arjun.joshi@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": true,
+      "examination_form_submitted": false,
+      "fee_submitted": true,
+      "fee_verified": true,
+      "attendance": 79
+    },
+    {
+      "name": "Devansh Shetty",
+      "email": "devansh.shetty@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": false,
+      "examination_form_submitted": false,
+      "fee_submitted": true,
+      "fee_verified": false,
+      "attendance": 70
+    },
+    {
+      "name": "Ishaan Menon",
+      "email": "ishaan.menon@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": true,
+      "examination_form_submitted": true,
+      "fee_submitted": false,
+      "fee_verified": false,
+      "attendance": 85
+    },
+    {
+      "name": "Anaya Singh",
+      "email": "anaya.singh@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": false,
+      "examination_form_submitted": true,
+      "fee_submitted": true,
+      "fee_verified": true,
+      "attendance": 94
+    },
+    {
+      "name": "Myra Gupta",
+      "email": "myra.gupta@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": true,
+      "examination_form_submitted": false,
+      "fee_submitted": false,
+      "fee_verified": false,
+      "attendance": 67
+    },
+    {
+      "name": "Aadhya Pillai",
+      "email": "aadhya.pillai@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": true,
+      "examination_form_submitted": true,
+      "fee_submitted": true,
+      "fee_verified": false,
+      "attendance": 88
+    },
+    {
+      "name": "Siya Kumar",
+      "email": "siya.kumar@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": false,
+      "examination_form_submitted": false,
+      "fee_submitted": true,
+      "fee_verified": true,
+      "attendance": 78
+    },
+    {
+      "name": "Avni Yadav",
+      "email": "avni.yadav@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": true,
+      "examination_form_submitted": true,
+      "fee_submitted": false,
+      "fee_verified": false,
+      "attendance": 83
+    },
+    {
+      "name": "Ira Saxena",
+      "email": "ira.saxena@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": true,
+      "examination_form_submitted": false,
+      "fee_submitted": true,
+      "fee_verified": true,
+      "attendance": 90
+    },
+    {
+      "name": "Diya Khanna",
+      "email": "diya.khanna@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": false,
+      "examination_form_submitted": true,
+      "fee_submitted": true,
+      "fee_verified": false,
+      "attendance": 72
+    },
+    {
+      "name": "Meera Chatterjee",
+      "email": "meera.chatterjee@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": true,
+      "examination_form_submitted": true,
+      "fee_submitted": true,
+      "fee_verified": true,
+      "attendance": 86
+    },
+    {
+      "name": "Saanvi Dubey",
+      "email": "saanvi.dubey@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": false,
+      "examination_form_submitted": false,
+      "fee_submitted": false,
+      "fee_verified": false,
+      "attendance": 65
+    },
+    {
+      "name": "Pari Malhotra",
+      "email": "pari.malhotra@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": true,
+      "examination_form_submitted": true,
+      "fee_submitted": true,
+      "fee_verified": false,
+      "attendance": 81
+    },
+    {
+      "name": "Riya Bansal",
+      "email": "riya.bansal@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": true,
+      "examination_form_submitted": false,
+      "fee_submitted": true,
+      "fee_verified": true,
+      "attendance": 76
+    },
+    {
+      "name": "Anika Kohli",
+      "email": "anika.kohli@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": false,
+      "examination_form_submitted": true,
+      "fee_submitted": false,
+      "fee_verified": false,
+      "attendance": 80
+    },
+    {
+      "name": "Vanya Ghosh",
+      "email": "vanya.ghosh@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": true,
+      "examination_form_submitted": true,
+      "fee_submitted": true,
+      "fee_verified": true,
+      "attendance": 95
+    },
+    {
+      "name": "Tanya Das",
+      "email": "tanya.das@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": false,
+      "examination_form_submitted": false,
+      "fee_submitted": true,
+      "fee_verified": false,
+      "attendance": 71
+    },
+    {
+      "name": "Nirvaan Thakur",
+      "email": "nirvaan.thakur@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": true,
+      "examination_form_submitted": false,
+      "fee_submitted": true,
+      "fee_verified": true,
+      "attendance": 86
+    },
+    {
+      "name": "Reyansh Saluja",
+      "email": "reyansh.saluja@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": false,
+      "examination_form_submitted": true,
+      "fee_submitted": true,
+      "fee_verified": false,
+      "attendance": 71
+    },
+    {
+      "name": "Dev Sharma",
+      "email": "dev.sharma@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": true,
+      "examination_form_submitted": true,
+      "fee_submitted": true,
+      "fee_verified": true,
+      "attendance": 92
+    },
+    {
+      "name": "Anvay Gill",
+      "email": "anvay.gill@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": false,
+      "examination_form_submitted": false,
+      "fee_submitted": false,
+      "fee_verified": false,
+      "attendance": 66
+    },
+    {
+      "name": "Aarohi Sharma",
+      "email": "aarohi.sharma@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": true,
+      "examination_form_submitted": true,
+      "fee_submitted": true,
+      "fee_verified": false,
+      "attendance": 84
+    },
+    {
+      "name": "Charvi Bhat",
+      "email": "charvi.bhat@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": true,
+      "examination_form_submitted": false,
+      "fee_submitted": true,
+      "fee_verified": true,
+      "attendance": 89
+    },
+    {
+      "name": "Hiya Joshi",
+      "email": "hiya.joshi@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": false,
+      "examination_form_submitted": true,
+      "fee_submitted": false,
+      "fee_verified": false,
+      "attendance": 76
+    },
+    {
+      "name": "Pihu Bansal",
+      "email": "pihu.bansal@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": true,
+      "examination_form_submitted": true,
+      "fee_submitted": true,
+      "fee_verified": true,
+      "attendance": 95
+    },
+    {
+      "name": "Mira Iyer",
+      "email": "mira.iyer@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": false,
+      "examination_form_submitted": false,
+      "fee_submitted": true,
+      "fee_verified": false,
+      "attendance": 70
+    },
+    {
+      "name": "Ridhi Saxena",
+      "email": "ridhi.saxena@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": true,
+      "examination_form_submitted": true,
+      "fee_submitted": false,
+      "fee_verified": false,
+      "attendance": 81
+    },
+    {
+      "name": "Sneha Kapoor",
+      "email": "sneha.kapoor@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": true,
+      "examination_form_submitted": false,
+      "fee_submitted": true,
+      "fee_verified": true,
+      "attendance": 88
+    },
+    {
+      "name": "Tanvi Mehra",
+      "email": "tanvi.mehra@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": false,
+      "examination_form_submitted": true,
+      "fee_submitted": true,
+      "fee_verified": false,
+      "attendance": 74
+    },
+    {
+      "name": "Veda Shetty",
+      "email": "veda.shetty@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": true,
+      "examination_form_submitted": true,
+      "fee_submitted": true,
+      "fee_verified": true,
+      "attendance": 93
+    },
+    {
+      "name": "Nitya Rao",
+      "email": "nitya.rao@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": false,
+      "examination_form_submitted": false,
+      "fee_submitted": false,
+      "fee_verified": false,
+      "attendance": 62
+    },
+    {
+      "name": "Aanya Verma",
+      "email": "aanya.verma@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": true,
+      "examination_form_submitted": true,
+      "fee_submitted": true,
+      "fee_verified": false,
+      "attendance": 80
+    },
+    {
+      "name": "Shreya Malhotra",
+      "email": "shreya.malhotra@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": true,
+      "examination_form_submitted": false,
+      "fee_submitted": true,
+      "fee_verified": true,
+      "attendance": 87
+    },
+    {
+      "name": "Divya Prakash",
+      "email": "divya.prakash@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": false,
+      "examination_form_submitted": true,
+      "fee_submitted": false,
+      "fee_verified": false,
+      "attendance": 75
+    },
+    {
+      "name": "Roshni Desai",
+      "email": "roshni.desai@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": true,
+      "examination_form_submitted": true,
+      "fee_submitted": true,
+      "fee_verified": true,
+      "attendance": 91
+    },
+    {
+      "name": "Harini Reddy",
+      "email": "harini.reddy@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": false,
+      "examination_form_submitted": false,
+      "fee_submitted": true,
+      "fee_verified": false,
+      "attendance": 68
+    },
+    {
+      "name": "Bhavika Nair",
+      "email": "bhavika.nair@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": true,
+      "examination_form_submitted": true,
+      "fee_submitted": false,
+      "fee_verified": false,
+      "attendance": 79
+    },
+    {
+      "name": "Krisha Menon",
+      "email": "krisha.menon@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": true,
+      "examination_form_submitted": false,
+      "fee_submitted": true,
+      "fee_verified": true,
+      "attendance": 86
+    },
+    {
+      "name": "Anushka Sinha",
+      "email": "anushka.sinha@gmail.com",
+      "class": "BTech 4th Sem",
+      "course_submitted": false,
+      "examination_form_submitted": true,
+      "fee_submitted": true,
+      "fee_verified": false,
+      "attendance": 72
+    }
+  ]
